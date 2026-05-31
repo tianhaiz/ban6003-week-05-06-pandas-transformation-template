@@ -10,19 +10,20 @@ Complete:
 
 `module6_string_categorical_guided_lab.ipynb`
 
+## GitHub Repository and Running Environment
+
+This module is part of the Module 5-6 package. Use the same repository you created from this public template repository:
+
+https://github.com/tianhaiz/ban6003-week-05-06-pandas-transformation-template
+
+Continue working in your own repository, not the instructor template. You may use Codespaces or your local conda/Jupyter environment. Make sure your repository is public, or invite `zzz1990771` / `zzz1990771@gmail.com` if it is private. Submit your GitHub repository link or completed files through Canvas.
+
 ## Dataset
 
 Use:
 
 `data/messy_customer_contacts.csv`
 
-## GitHub Classroom Assignment Link
-
-This module is part of the Module 5-6 assignment package. Canvas will provide the GitHub Classroom invitation link if you have not already accepted this package:
-
-**GitHub Classroom invitation link:** [to be added]
-
-If you already accepted the Module 5-6 assignment, return to the same personal assignment repository and reopen your Codespace. If the repository does not open or GitHub says you do not have access, check the GitHub notifications inbox in the upper-right corner of GitHub, or go to `https://github.com/notifications`, and accept any pending repository or organization invitation from GitHub Classroom.
 
 ## What You Will Practice
 
@@ -30,14 +31,14 @@ You will practice standardizing casing and spacing, removing or replacing simple
 
 ## Recommended Workflow
 
-1. Open the notebook in GitHub Codespaces.
-2. Select the `base` kernel if prompted.
+1. Open the notebook in Codespaces or local Jupyter.
+2. Select the course Python kernel if prompted.
 3. Run the setup cells.
 4. Inspect the messy categorical values before cleaning.
 5. Work through the string cleaning examples.
 6. Complete the Your Turn exercises.
 7. Write the short reflection on one recoding decision.
-8. Save, commit, and push your work.
+8. Save your work, then commit and push if using GitHub.
 
 ## What to Pay Attention To
 
@@ -52,4 +53,4 @@ Before submitting, make sure:
 - You used `.str.split()` for simple parsing.
 - You completed the Your Turn exercises.
 - You explained one recoding decision.
-- You saved, committed, and pushed your work.
+- You saved your work and submitted through Canvas.
