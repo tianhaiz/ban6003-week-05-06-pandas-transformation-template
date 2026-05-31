@@ -1,0 +1,16 @@
+customer_id,customer_name,email,state_raw,segment_raw,contact_method_raw,channel_raw,product_raw,issue_text
+1001, Alice Smith ,alice.smith@example.com,TX, Premium ,Email,web - organic,Loan_Application,Customer says login failed twice
+1002,bob jones,bob.jones@example.com,Texas,VIP,e-mail,Web-Organic,loan application,Asked about mortgage rate
+1003,CARLA NGUYEN,carla.nguyen@example.com,tx.,standard,phone,Mobile App,Checking,Reported unauthorized charge
+1004, Daniel   Lee ,daniel.lee@example.com,CA,basic,Phone Call,branch,Credit_Card,Needs card replacement
+1005,erin o'neill,erin.oneill@example.com,California,Standard ,SMS,mobile-app,credit card,Asked to update address
+1006, Fatima Khan,fatima.khan@example.com,ca,vip ,text,WEB - PAID,Mortgage,Possible fraud on account
+1007,george martin,george.martin@example.com,NY,Premium,EMAIL ,web-paid,mortgage,Wants payoff estimate
+1008,HANA KIM ,hana.kim@example.com,New York,unknown,chat,Call Center,Auto_Loan,Asked about late fee
+1009,ivan petrov,ivan.petrov@example.com,N.Y.,Basic,Chat ,call center,auto loan,Fraud alert question
+1010, Julia Brown,julia.brown@example.com,FL,standard,email,Partner Referral,Checking_Account,New account opening
+1011,kevin wu,kevin.wu@example.com,Florida,vip,E-Mail,partner-referral,checking account,Mobile deposit failed
+1012,LISA GARCIA,lisa.garcia@example.com,fl.,premium ,Text Message,Branch,Credit Card,Card dispute submitted
+1013,maria lopez,maria.lopez@example.com,TX,student,phone,web - organic,Student_Loan,Question about repayment
+1014, Noah Wilson ,noah.wilson@example.com,CA,Student ,sms,Mobile App,student loan,Needs grace period info
+1015,olivia davis,olivia.davis@example.com,Nevada,Basic,EMAIL,Unknown,Personal_Loan,General loan question
