@@ -16,7 +16,7 @@ This module is part of the Module 5-6 package. Use the same repository you creat
 
 https://github.com/tianhaiz/ban6003-week-05-06-pandas-transformation-template
 
-Continue working in your own repository, not the instructor template. You may use Codespaces or your local conda/Jupyter environment. Make sure your repository is public, or invite `zzz1990771` / `zzz1990771@gmail.com` if it is private. Submit your GitHub repository link or completed files through Canvas.
+Continue working in your own repository, not the instructor template. Use Codespaces as the main path, or use your local conda/Jupyter environment if you are comfortable managing it. Make sure your repository is public, or invite `zzz1990771` / `zzz1990771@gmail.com` if it is private. Submit your GitHub repository link through Canvas.
 
 ## Dataset
 
@@ -31,7 +31,7 @@ You will practice standardizing casing and spacing, removing or replacing simple
 
 ## Recommended Workflow
 
-1. Open the notebook in Codespaces or local Jupyter.
+1. Open the notebook in Codespaces, or in local Jupyter if you are using the optional local path.
 2. Select the course Python kernel if prompted.
 3. Run the setup cells.
 4. Inspect the messy categorical values before cleaning.
