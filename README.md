@@ -3,7 +3,7 @@
 **BAN 6003: Data Management and Analytics Integration**  
 **Weeks 5-6 GitHub Template**
 
-This repository contains the notebooks, data files, environment files, and local check scripts for this assignment package. Detailed lab instructions are provided in Canvas/LMS.
+This repository contains the notebooks, data files, and environment files for this assignment package. Detailed lab instructions are provided in Canvas/LMS.
 
 ## Canvas / LMS Lab Guide
 
@@ -14,9 +14,15 @@ Read the Canvas/LMS lab guide before working in this repository. The LMS page co
 - `notebooks/module5_basic_transformation_guided_lab.ipynb`
 - `notebooks/module6_string_categorical_guided_lab.ipynb`
 
-## Required Files
+## Required Input File
 
-- `data/messy_customer_contacts.csv`
+- `data/raw/messy_customer_contacts.csv` for Module 6
+
+The template does not include completed outputs. Your notebooks create:
+
+- `data/processed/flights_transformed_module5.csv`
+- `data/processed/jfk_summer_delay_review_top50.csv`
+- `data/processed/customer_contacts_transformed_module6.csv`
 
 ## How to Work
 
@@ -28,13 +34,6 @@ Read the Canvas/LMS lab guide before working in this repository. The LMS page co
 6. Complete all `Your Turn`, exercise, checkpoint, and reflection sections.
 7. Save your notebooks and required outputs.
 8. Submit your GitHub repository link through Canvas.
-
-## Completion Check
-
-Your instructor may run a local completion and reproducibility check after submission. The check is designed to support the automatic portion of the lab grade. It verifies that required files exist, notebooks run when possible, marked code cells have real code, required output-producing cells have output after execution, and written response placeholders have been replaced.
-
-The check does not evaluate the quality of your interpretation. Your instructor may grade the remaining portion manually using the assignment rubric.
-
 
 ## Submit
 
